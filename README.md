@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-Accurate loan prediction is essential for financial institutions to manage risk and ensure a healthy lending portfolio. By assessing the likelihood of loan approval based on applicant data, banks can make informed decisions and improve their loan processing efficiency.This project aims to leverage neural networks, a powerful deep learning technique, to predict loan approvals based on various applicant features such as income, credit history, and loan amount.
+Accurate loan prediction is essential for financial institutions to manage risk and ensure a healthy lending portfolio. By assessing the likelihood of loan approval based on applicant data, banks can make informed decisions and improve their loan processing efficiency.This project aims to leverage neural networks to predict loan approvals based on various applicant features such as income, credit history, and loan amount.
 
 **Problem Statement:**
 
